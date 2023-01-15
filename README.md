@@ -1,6 +1,6 @@
 # Timed auctions on aptos
 
-Timed auctions implementation on aptos, strongly inspired by [ourzora/auction-house](https://github.com/ourzora/auction-house)
+Timed auctions on aptos, strongly inspired by [ourzora/auction-house](https://github.com/ourzora/auction-house)
 
 Two types of auctions available on this project
 
